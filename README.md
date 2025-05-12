@@ -45,4 +45,4 @@ traffic-rl-project/
 ## Citation
 
 If you use this code, please cite:
-> Your Name. Adaptive Traffic Signal Control Using Reinforcement Learning. 2025.
+> Hartman, Noah. Adaptive Traffic Signal Control Using Reinforcement Learning. 2025.
